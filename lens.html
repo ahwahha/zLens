@@ -73,7 +73,7 @@
                 end: 20,
                 defaultEnd: 20,
                 sortedBy: 'weight',
-                ascending: !true
+                ascending: true
             });
             myTable.setData(await (await fetch('./lens.json')).json());
             myTable.fillTable();
