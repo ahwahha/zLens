@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='button.css'>
+    <script src="https://ahwahha.github.io/js/static/util-static.js"></script>
+    <script>
+        var myTable = null;
+        
+        document.addEventListener('DOMContentLoaded', async (event) => {
+            myTable = new JsonTable(document.getElementById('container'));
+            myTable.setTableSettings({
+                columns: [
+                    {
+                        "header": "Description",
+                        "data": "desc"
+                    },
+                    {
+                        "header": "Format",
+                        "data": "format"
+                    },
+                    {
+                        "header": "S-Line",
+                        "data": "sline"
+                    },
+                    {
+                        "header": "Focal Length",
+                        "data": "fl"
+                    },
+                    {
+                        "header": "Aperture",
+                        "data": "aperture"
+                    },
+                    {
+                        "header": "AOV",
+                        "data": "aov"
+                    },
+                    {
+                        "header": "Min. Focus Distance",
+                        "data": "minfd"
+                    },
+                    {
+                        "header": "Max. Reproduction Ratio",
+                        "data": "maxrepo"
+                    },
+                    {
+                        "header": "VR",
+                        "data": "vr"
+                    },
+                    {
+                        "header": "Dimensions",
+                        "data": "dimensions"
+                    },
+                    {
+                        "header": "Weight (g)",
+                        "data": "weight"
+                    }
+                ],
+                label: 'Z lens',
+                start: 1,
+                end: 20,
+                defaultEnd: 20,
+                sortedBy: 'weight',
+                ascending: !true
+            });
+            myTable.setData(await (await fetch('./lens.json')).json());
+            myTable.fillTable();
+        })
+    </script>
+
+    <style>
+        table * {
+            box-sizing: border-box;
+        }
+
+        #container {
+            box-sizing: border-box;
+        }
+
+        #container table {
+            border-collapse: collapse;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="container"></div>
+</body>
+
+</html>
