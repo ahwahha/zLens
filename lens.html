@@ -13,6 +13,12 @@
             myTable.setTableSettings({
                 columns: [
                     {
+						"header": "Sel.",
+						"data": "###row-selected",
+						"rowsStyle": { "width": "1%", "padding": "0px 10px" },
+						"modifier": function (row) { return myTable.createSelectBox(row); },
+					},
+                    {
                         "header": "Description",
                         "data": "desc",
                         "rowsStyle": {"white-space":"nowrap"}
@@ -43,12 +49,12 @@
                         "rowsStyle": {"white-space":"nowrap"}
                     },
                     {
-                        "header": "min. Focus d.",
+                        "header": "min.Fo.d.(mm)",
                         "data": "minfd",
                         "rowsStyle": {"white-space":"nowrap"}
                     },
                     {
-                        "header": "max. repo.",
+                        "header": "max.repo.",
                         "data": "maxrepo",
                         "rowsStyle": {"white-space":"nowrap"}
                     },
@@ -63,7 +69,7 @@
                         "rowsStyle": {"white-space":"nowrap"}
                     },
                     {
-                        "header": "Weight (g)",
+                        "header": "Weight(g)",
                         "data": "weight",
                         "rowsStyle": {"white-space":"nowrap"}
                     }
