@@ -459,7 +459,7 @@
     "format": "FX",
     "sline": "yes",
     "fl": "135mm",
-    "f": "min. f/1.8, max. f/16",
+    "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 18°50', DX 12°30'",
     "minfd": "82cm",
     "maxrepo": "0.2x",
