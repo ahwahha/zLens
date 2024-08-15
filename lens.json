@@ -52,6 +52,19 @@
     "weight": "1090"
   },
   {
+    "desc": "NIKKOR Z 50mm f/1.8 S",
+    "format": "FX",
+    "sline": "yes",
+    "fl": "50mm",
+    "aperture": "min. f/1.8, max. f/16",
+    "aov": "FX 47°, DX 31°30'",
+    "minfd": "40",
+    "maxrepo": "0.15x",
+    "vr": "no",
+    "dimensions": "D 76mm x 86.5mm",
+    "weight": "415"
+  },
+  {
     "desc": "NIKKOR Z 85mm f/1.8 S",
     "format": "FX",
     "sline": "yes",
