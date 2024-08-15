@@ -7,7 +7,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 94°, DX 70°",
     "minfd": "20",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 84.5mm x 108.5mm",
     "weight": "505"
@@ -20,7 +20,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 84°, DX 61°",
     "minfd": "25",
-    "maxrepo": "0.15x",
+    "maxrepo": "0.15",
     "vr": "no",
     "dimensions": "D 78mm x 96.5mm",
     "weight": "450"
@@ -33,7 +33,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 63°, DX 44°",
     "minfd": "25",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 73mm x 86mm",
     "weight": "370"
@@ -46,7 +46,7 @@
     "aperture": "min. f/1.2, max. f/16",
     "aov": "FX 47°, DX 31°30'",
     "minfd": "45",
-    "maxrepo": "0.15x",
+    "maxrepo": "0.15",
     "vr": "no",
     "dimensions": "D 89.5mm x 150mm",
     "weight": "1090"
@@ -59,7 +59,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 47°, DX 31°30'",
     "minfd": "40",
-    "maxrepo": "0.15x",
+    "maxrepo": "0.15",
     "vr": "no",
     "dimensions": "D 76mm x 86.5mm",
     "weight": "415"
@@ -72,7 +72,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 28°30', DX 19°30'",
     "minfd": "80",
-    "maxrepo": "0.12x",
+    "maxrepo": "0.12",
     "vr": "no",
     "dimensions": "D 75mm x 99mm",
     "weight": "470"
@@ -85,7 +85,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 114° - 84°, DX 90° - 61°",
     "minfd": "28",
-    "maxrepo": "0.13x",
+    "maxrepo": "0.13",
     "vr": "no",
     "dimensions": "D 88.5mm x 124.5mm",
     "weight": "650"
@@ -98,7 +98,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 84° - 34°20', DX 61° - 22°50'",
     "minfd": "38",
-    "maxrepo": "0.22x",
+    "maxrepo": "0.22",
     "vr": "no",
     "dimensions": "D 89mm x 126mm",
     "weight": "805"
@@ -111,7 +111,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 34°20' - 12°20', DX 22°50' - 8°",
     "minfd": "50",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "yes",
     "dimensions": "D 89mm x 220mm",
     "weight": "1440"
@@ -124,7 +124,7 @@
     "aperture": "min. f/3.5-6.3, max. f/22-40",
     "aov": "DX 83° - 31°30'",
     "minfd": "20",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "yes",
     "dimensions": "D 70mm x 32mm",
     "weight": "135"
@@ -137,7 +137,7 @@
     "aperture": "min. f/4.5-6.3, max. f/22-32",
     "aov": "DX 31°30' - 6°30'",
     "minfd": "50",
-    "maxrepo": "0.23x",
+    "maxrepo": "0.23",
     "vr": "yes",
     "dimensions": "D 74mm x 110mm",
     "weight": "405"
@@ -150,7 +150,7 @@
     "aperture": "min. f/4, max. f/22",
     "aov": "FX 84° - 20°20', DX 61° - 13°20'",
     "minfd": "35",
-    "maxrepo": "0.39x",
+    "maxrepo": "0.39",
     "vr": "no",
     "dimensions": "D 84mm x 118mm",
     "weight": "630"
@@ -163,7 +163,7 @@
     "aperture": "min. f/4.5-5.6, max. f/32-40",
     "aov": "FX 24° - 6°10', DX 16° - 4°",
     "minfd": "75",
-    "maxrepo": "0.38x",
+    "maxrepo": "0.38",
     "vr": "yes",
     "dimensions": "D 98mm x 222mm",
     "weight": "1355"
@@ -176,7 +176,7 @@
     "aperture": "min. f/3.5-6.3, max. f/22-40",
     "aov": "DX 76° - 11°30'",
     "minfd": "20",
-    "maxrepo": "0.33x",
+    "maxrepo": "0.33",
     "vr": "yes",
     "dimensions": "D 73mm x 90mm",
     "weight": "315"
@@ -189,7 +189,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 6°10', DX 4°",
     "minfd": "250",
-    "maxrepo": "0.17x",
+    "maxrepo": "0.17",
     "vr": "yes",
     "dimensions": "D 156mm x 380mm",
     "weight": "2950"
@@ -202,7 +202,7 @@
     "aperture": "min. f/4.5, max. f/32",
     "aov": "FX 6°10', DX 4°",
     "minfd": "250",
-    "maxrepo": "0.16x",
+    "maxrepo": "0.16",
     "vr": "yes",
     "dimensions": "D 104mm x 234.5mm",
     "weight": "1245"
@@ -215,7 +215,7 @@
     "aperture": "min. f/4, max. f/32",
     "aov": "FX 4°10', DX 2°40'",
     "minfd": "430",
-    "maxrepo": "0.14x",
+    "maxrepo": "0.14",
     "vr": "yes",
     "dimensions": "D 165mm x 437mm",
     "weight": "3260"
@@ -228,7 +228,7 @@
     "aperture": "min. f/6.3, max. f/32",
     "aov": "FX 3°10', DX 2°",
     "minfd": "500",
-    "maxrepo": "0.16x",
+    "maxrepo": "0.16",
     "vr": "yes",
     "dimensions": "D 140mm x 385mm",
     "weight": "2385"
@@ -241,7 +241,7 @@
     "aperture": "min. f/2.8, max. f/32",
     "aov": "FX 23°20', DX 15°20'",
     "minfd": "29",
-    "maxrepo": "1.0x",
+    "maxrepo": "1.0",
     "vr": "yes",
     "dimensions": "D 85mm x 140mm",
     "weight": "630"
@@ -254,7 +254,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 47°, DX 31°30'",
     "minfd": "16",
-    "maxrepo": "1.0x",
+    "maxrepo": "1.0",
     "vr": "no",
     "dimensions": "D 74.5mm x 66mm",
     "weight": "260"
@@ -267,7 +267,7 @@
     "aperture": "min. f/2.8, max. f/16",
     "aov": "FX 79°, DX 59°",
     "minfd": "20",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 70mm x 23.5mm",
     "weight": "125"
@@ -280,7 +280,7 @@
     "aperture": "min. f/2.8, max. f/16",
     "aov": "FX 75°, DX 56°",
     "minfd": "19",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "no",
     "dimensions": "D 70mm x 43mm",
     "weight": "155"
@@ -293,7 +293,7 @@
     "aperture": "min. f/2.8, max. f/16",
     "aov": "FX 75°, DX 56°",
     "minfd": "19",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "no",
     "dimensions": "D 71.5mm x 43mm",
     "weight": "160"
@@ -306,7 +306,7 @@
     "aperture": "min. f/1.4, max. f/16",
     "aov": "FX 63°, DX 44°",
     "minfd": "30",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "no",
     "dimensions": "D 83mm x 99mm",
     "weight": "370"
@@ -319,7 +319,7 @@
     "aperture": "min. f/2, max. f/16",
     "aov": "FX 57°, DX 38°50'",
     "minfd": "29",
-    "maxrepo": "0.17x",
+    "maxrepo": "0.17",
     "vr": "no",
     "dimensions": "D 71.5mm x 45.5mm",
     "weight": "170"
@@ -332,7 +332,7 @@
     "aperture": "min. f/2, max. f/16",
     "aov": "FX 57°, DX 38°50'",
     "minfd": "29",
-    "maxrepo": "0.17x",
+    "maxrepo": "0.17",
     "vr": "no",
     "dimensions": "D 71.5mm x 45.5mm",
     "weight": "170"
@@ -345,7 +345,7 @@
     "aperture": "min. f/1.7, max. f/16",
     "aov": "DX 61°",
     "minfd": "18",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 70mm x 40mm",
     "weight": "135"
@@ -358,7 +358,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 104° - 75°, DX 79° - 56°",
     "minfd": "19",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 75mm x 101mm",
     "weight": "450"
@@ -371,7 +371,7 @@
     "aperture": "min. f/4-6.3, max. f/22-36",
     "aov": "FX 84° - 47°, DX 61° - 31°30'",
     "minfd": "35",
-    "maxrepo": "0.17x",
+    "maxrepo": "0.17",
     "vr": "no",
     "dimensions": "D 73.5mm x 51mm",
     "weight": "195"
@@ -384,7 +384,7 @@
     "aperture": "min. f/4-6.3, max. f/22-36",
     "aov": "FX 84° - 12°20', DX 61° - 8°",
     "minfd": "50",
-    "maxrepo": "0.28x",
+    "maxrepo": "0.28",
     "vr": "yes",
     "dimensions": "D 76.5mm x 114mm",
     "weight": "570"
@@ -397,7 +397,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 75° - 32°, DX 56° - 21°",
     "minfd": "19",
-    "maxrepo": "0.34x",
+    "maxrepo": "0.34",
     "vr": "no",
     "dimensions": "D 75mm x 120.5mm",
     "weight": "565"
@@ -410,7 +410,7 @@
     "aperture": "min. f/2.8, max. f/22",
     "aov": "FX 34°20' - 13°40', DX 22°50' - 9°10'",
     "minfd": "27",
-    "maxrepo": "0.48x",
+    "maxrepo": "0.48",
     "vr": "no",
     "dimensions": "D 83.5mm x 151mm",
     "weight": "795"
@@ -423,7 +423,7 @@
     "aperture": "min. f/5.6-6.3, max. f/32-36",
     "aov": "FX 13°40' - 4°10', DX 9°10' - 2°40'",
     "minfd": "130",
-    "maxrepo": "0.25x",
+    "maxrepo": "0.25",
     "vr": "yes",
     "dimensions": "D 109.5mm x 315.5mm",
     "weight": "2140"
@@ -436,7 +436,7 @@
     "aperture": "min. f/3.5-5.6, max. f/22-32",
     "aov": "DX 99° - 53°",
     "minfd": "19",
-    "maxrepo": "0.21x",
+    "maxrepo": "0.21",
     "vr": "yes",
     "dimensions": "D 72mm x 63.5mm",
     "weight": "205"
@@ -449,7 +449,7 @@
     "aperture": "min. f/0.95, max. f/16",
     "aov": "FX 40°50', DX 27°20'",
     "minfd": "50",
-    "maxrepo": "0.19x",
+    "maxrepo": "0.19",
     "vr": "no",
     "dimensions": "D 102mm x 153mm",
     "weight": "2000"
@@ -462,7 +462,7 @@
     "aperture": "min. f/1.2, max. f/16",
     "aov": "FX 28°30', DX 19°30'",
     "minfd": "85",
-    "maxrepo": "0.11x",
+    "maxrepo": "0.11",
     "vr": "no",
     "dimensions": "D 102mm x 141.5mm",
     "weight": "1160"
@@ -475,7 +475,7 @@
     "aperture": "min. f/1.8, max. f/16",
     "aov": "FX 18°50', DX 12°30'",
     "minfd": "82",
-    "maxrepo": "0.2x",
+    "maxrepo": "0.2",
     "vr": "no",
     "dimensions": "D 98mm x 140mm",
     "weight": "995"
