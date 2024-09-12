@@ -13,16 +13,15 @@
             myTable.setTableSettings({
                 columns: [
                     {
-						"header": "Sel.",
-						"data": "###row-selected",
-						"rowsStyle": { "width": "1%", "padding": "0px 10px" },
-						"modifier": function (row) { return myTable.createSelectBox(row); },
-					},
-                    {
                         "header": "Description",
                         "data": "desc",
                         "rowsStyle": {"white-space":"nowrap"}
                     },
+                    {
+                        "header": "Brand",
+                        "data": "brand",
+                        "rowsStyle": {"white-space":"nowrap"}
+                    },,
                     {
                         "header": "Format",
                         "data": "format",
@@ -44,8 +43,8 @@
                         "rowsStyle": {"white-space":"nowrap"}
                     },
                     {
-                        "header": "AOV",
-                        "data": "aov",
+                        "header": "FOV",
+                        "data": "fov",
                         "rowsStyle": {"white-space":"nowrap"}
                     },
                     {
