@@ -12,11 +12,11 @@
             myTable = new JsonTable(document.getElementById('container'));
             myTable.setTableSettings({
                 columns: [
-                    {
-						"header": "Sel.",
-						"data": "###row-selected",
-						"rowsStyle": { "width": "1%", "padding": "0px 10px" },
-						"modifier": function (row) { return myTable.createSelectBox(row); },
+					{
+					"header": "Sel.",
+					"data": "###row-selected",
+					"rowsStyle": { "width": "1%", "padding": "0px 10px" },
+					"modifier": function (row) { return myTable.createSelectBox(row); },
 					},
                     {
                         "header": "Brand",
