@@ -782,5 +782,19 @@
     "vr": "no",
     "dimensions": "D 80mm x 92mm",
     "weight": "540"
+  },
+  {
+    "brand": "Nikon",
+    "desc": "NIKKOR Z 50mm f/1.4",
+    "format": "FX",
+    "sline": "no",
+    "fl": "50mm",
+    "aperture": "max. f1.4, min. f/16",
+    "fov": "FX: 47°, DX: 31°30′",
+    "minfd": "0.37",
+    "maxrepo": "1:0.17",
+    "vr": "no",
+    "dimensions": "D 74.5mm x 86.5mm",
+    "weight": "420"
   }
 ]
