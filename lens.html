@@ -4,11 +4,11 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' href='button.css'>
-    <script id='json'>
+    <script id='add_util'>
         let e = document.createElement('script');
         e.setAttribute('src', "https://ahwahha.github.io/js/static/util-static.js?v=" + Date.now());
         document.querySelector('head')[0].appendChild(e);
-        document.querySelector('#json').remove();
+        document.querySelector('#add_util').remove();
     </script>
     <script>
         var myTable = null;
@@ -91,7 +91,7 @@
                 sortedBy: 'weight',
                 ascending: true
             });
-            myTable.setData(await (await fetch('./lens.json')).json());
+            myTable.setData(await (await fetch('./lens.json?v=' + Date.now())).json());
             myTable.fillTable();
         })
     </script>
