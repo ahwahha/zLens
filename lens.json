@@ -785,6 +785,20 @@
   },
   {
     "brand": "Nikon",
+    "desc": "NIKKOR Z 28-400mm f/4-8 VR",
+    "format": "FX",
+    "sline": "no",
+    "fl": "28-400mm",
+    "aperture": "max. f/4-8, min. f/22-32",
+    "fov": "FX 75° - 6°10', DX 53° - 4°",
+    "minfd": "0.2",
+    "maxrepo": "1:2.86",
+    "vr": "yes",
+    "dimensions": "D 89mm x 142mm",
+    "weight": "725g"
+  },
+  {
+    "brand": "Nikon",
     "desc": "NIKKOR Z 50mm f/1.4",
     "format": "FX",
     "sline": "no",
