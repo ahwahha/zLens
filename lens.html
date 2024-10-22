@@ -87,7 +87,7 @@
                 ascending: true
             });
             myTable.setData(await (await fetch('./lens.json?v=' + Date.now())).json());
-            myTable.fillTable();
+            myTable.refreshTable(true);
         })
     </script>
 
